@@ -1,0 +1,281 @@
+@media (max-width: 575px) {
+
+    /* nav part start */
+    .navv {
+        text-align: right !important;
+        margin-right: 20px;
+    }
+
+    .menu_bg ul li a::after {
+        top: 35px;
+        right: -64px;
+        height: 2px;
+        width: 80px;
+        opacity: 0;
+    }
+
+    #banner {
+        background: url(../images/nordwood-themes-kRNZiGKtz48-unsplash.jpg) no-repeat center / cover;
+        padding: 150px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .wrapper {
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* about part start */
+    .abt_img {
+
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .abt_head h2 {
+        text-align: center;
+    }
+
+    .ab_hd {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+        font-size: 19px;
+        text-align: justify;
+    }
+
+    .bio_inner {
+        display: flex;
+        justify-content: space-around;
+    }
+    /* about part end */
+
+    /* price part start */
+    .plan{
+        margin-bottom: 20px;
+    }
+    /* price part end */
+
+    /* footer part start */
+    .copyright p {
+        text-align: center;
+    }
+    /* footer part end */
+
+
+}
+
+/* nav part end */
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* nav part start */
+     .navv {
+        text-align: right !important;
+        margin-right: 20px;
+    }
+
+    .menu_bg ul li a::after {
+        top: 35px;
+        right: -64px;
+        height: 2px;
+        width: 80px;
+        opacity: 0;
+    }
+
+    #banner {
+        background: url(../images/nordwood-themes-kRNZiGKtz48-unsplash.jpg) no-repeat center / cover;
+        padding: 150px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .wrapper {
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* about part start */
+    .abt_img {
+
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .abt_head h2 {
+        text-align: center;
+    }
+
+    .ab_hd {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+        font-size: 19px;
+        text-align: justify;
+    }
+
+    .bio_inner {
+        display: flex;
+        justify-content: space-around;
+    }
+    /* about part end */
+
+    /* price part start */
+    .plan{
+        margin-bottom: 20px;
+    }
+    /* price part end */
+
+    /* footer part start */
+    .copyright p {
+        text-align: center;
+    }
+    /* footer part end */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* nav part start */
+    .navv {
+        text-align: right !important;
+        margin-right: 20px;
+    }
+
+    .menu_bg ul li a::after {
+        top: 35px;
+        right: -64px;
+        height: 2px;
+        width: 80px;
+        opacity: 0;
+    }
+
+    #banner {
+        background: url(../images/nordwood-themes-kRNZiGKtz48-unsplash.jpg) no-repeat center / cover;
+        padding: 150px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .wrapper {
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* about part start */
+    .abt_img {
+
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .abt_head h2 {
+        text-align: center;
+    }
+
+    .ab_hd {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+        font-size: 19px;
+        text-align: justify;
+    }
+
+    .bio_inner {
+        display: flex;
+        justify-content: space-around;
+    }
+    /* about part end */
+
+    /* price part start */
+    .plan{
+        margin-bottom: 20px;
+    }
+    .plan_features li {
+        text-align: center;
+    }
+    /* price part end */
+
+    /* footer part start */
+    .copyright p {
+        text-align: center;
+    }
+    /* footer part end */
+}
+
+/* @media (min-width: 992px) and (max-width: 1199.98px) {
+    
+} */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* nav part start */
+    .navv {
+        text-align: right !important;
+        margin-right: 20px;
+    }
+
+    .menu_bg ul li a::after {
+        position: absolute;
+        content: '';
+        top: 43px;
+        left: 36px;
+        height: 2px;
+        width: 0;
+        background-color: #f06060;
+        transition: 0.8s;
+        -webkit-transition: 0.8s;
+        -moz-transition: 0.8s;
+        -ms-transition: 0.8s;
+        -o-transition: 0.8s;
+    }
+
+    #banner {
+        background: url(../images/nordwood-themes-kRNZiGKtz48-unsplash.jpg) no-repeat center / cover;
+        padding: 150px 0;
+        position: relative;
+        z-index: 1;
+    }
+
+    .wrapper {
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* about part start */
+    .abt_img {
+
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .abt_head h2 {
+        text-align: center;
+    }
+
+    .ab_hd {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+        font-size: 19px;
+        text-align: justify;
+    }
+
+    .bio_inner {
+        display: flex;
+        justify-content: space-around;
+    }
+    /* about part end */
+
+    /* price part start */
+    .plan{
+        margin-bottom: 20px;
+    }
+    .plan_features li {
+        font-size: 17px;
+    }
+    /* price part end */
+
+    /* footer part start */
+    .copyright p {
+        text-align: center;
+    }
+    /* footer part end */
+}
